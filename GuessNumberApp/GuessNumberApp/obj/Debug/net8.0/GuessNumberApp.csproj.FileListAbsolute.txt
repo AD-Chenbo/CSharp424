@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\bin\Debug\net8.0\GuessNumberApp.exe
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\bin\Debug\net8.0\GuessNumberApp.deps.json
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\bin\Debug\net8.0\GuessNumberApp.runtimeconfig.json
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\bin\Debug\net8.0\GuessNumberApp.dll
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\bin\Debug\net8.0\GuessNumberApp.pdb
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\GuessNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\GuessNumberApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\GuessNumberApp.AssemblyInfo.cs
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\GuessNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\GuessNumberApp.dll
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\refint\GuessNumberApp.dll
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\GuessNumberApp.pdb
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\GuessNumberApp.genruntimeconfig.cache
+C:\Users\user\Desktop\C#課程\1131112_Lab1\GuessNumberApp\GuessNumberApp\obj\Debug\net8.0\ref\GuessNumberApp.dll
