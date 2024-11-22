@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\bin\Debug\net8.0\RearrangeMatrixAPP.exe
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\bin\Debug\net8.0\RearrangeMatrixAPP.deps.json
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\bin\Debug\net8.0\RearrangeMatrixAPP.runtimeconfig.json
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\bin\Debug\net8.0\RearrangeMatrixAPP.dll
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\bin\Debug\net8.0\RearrangeMatrixAPP.pdb
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\RearrangeMatrixAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\RearrangeMatrixAPP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\RearrangeMatrixAPP.AssemblyInfo.cs
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\RearrangeMatrixAPP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\RearrangeMatrixAPP.dll
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\refint\RearrangeMatrixAPP.dll
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\RearrangeMatrixAPP.pdb
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\RearrangeMatrixAPP.genruntimeconfig.cache
+C:\Users\user\Desktop\C#課程\1131122_Lab3\RearrangeMatrixAPP\RearrangeMatrixAPP\obj\Debug\net8.0\ref\RearrangeMatrixAPP.dll
